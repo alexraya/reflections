@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When a repository is initialized, the staging area is created in the working directory. This is necessary to create commits.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is where files to be committed are submitted for tracking. This is separate from the working directory and the repository as it is the intermediary stages to creating commits in the working directory which is where the repository is stored. It offers the value of establishing what data is to be tracked for saving changes.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
