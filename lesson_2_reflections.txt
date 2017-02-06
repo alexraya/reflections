@@ -24,5 +24,7 @@ Diagrams provide the information necessary to distinguish where commits are loca
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together combines their commit history and changes. We represent it in a diagram as a convergence upon a commit to show two branches meeting at a point of commit.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
