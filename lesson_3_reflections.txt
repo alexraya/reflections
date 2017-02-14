@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+Creating a remote repository allows for work to be easily shared with others and collaborated on, and also be backed up in the cloud for backup storage.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Pulling changes manually rather than automatically allows for checking to be done on changes prior to uploading for any content that may want to be kept from public view.
