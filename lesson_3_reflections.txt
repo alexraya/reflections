@@ -5,3 +5,7 @@ Creating a remote repository allows for work to be easily shared with others and
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Pulling changes manually rather than automatically allows for checking to be done on changes prior to uploading for any content that may want to be kept from public view.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of a GitHub repository from one person's accounts to another. A clone is a copy of a branch. A branch is a lineage of changes within a repository. A fork is useful way to copy a whole repository, while cloning a branch is helpful for creating new code within an existing repository.
