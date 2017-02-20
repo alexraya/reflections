@@ -17,3 +17,7 @@ Having a copy of the last known state of the remote stored locally allows for wo
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Collaborating without using Git or GitHub would be difficult, as any code changes would not be able to be shared in detail. There are other automated version control platforms, but do not perform the complex management that is possible with Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Creating changes on separate branches allows for delineating development paths in unique ways separate from master code. Keeping everything on master simplifies organizing commits, but creating separate branches allows for different aspects of projects to be worked on independently of each other.
